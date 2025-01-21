@@ -1,0 +1,16 @@
+Week,Dates,Topics,Study Focus,Assignment/Task
+1,8-Jan,Getting Started and Introduction to Databases and DBMS,"Review syllabus, set up MySQL/MongoDB, and read Intro chapters.","Complete setup tasks, read assigned chapters."
+2,15-Jan,Conceptual Modeling,"Learn UML/ERD concepts, start conceptual modeling practice.","Pre-class quiz, in-class modeling activity."
+3,22-Jan,Logical Modeling,"Dive into logical modeling, focus on mapping to relational models.","SQL practice, class activity."
+4,29-Jan,Relational Database Design & Normalization,"Practice normalization (1NF, 2NF, 3NF), understand relational design.",Assignment on normalization.
+5,5-Feb,Realizing A Database Schema,"Implement database schema in MySQL, focus on schema validation.",Schema assignment due.
+6,12-Feb,Data Retrieval with SQL,"Practice SQL queries, joins, subqueries, and indexing.",SQL assignment due.
+7,19-Feb,Application Development,Start small application development with embedded SQL.,Start Practicum I.
+8,26-Feb,Practicum I (Team Project),Work on Practicum I with the team; manage time efficiently.,Submit Practicum I and complete demo.
+9,Mar 5 (Spring Break),NO CLASS - Spring Break,Take a break and review past topics.,Relax and revise.
+10,12-Mar,Relational Algebra,Understand relational algebra operations and SQL abstraction.,Relational algebra quiz.
+11,19-Mar,Query Processing & Indexing,Study indexing methods and query optimization techniques.,Query processing assignment.
+12,26-Mar,Concurrency & Transactions,Focus on transaction management and concurrency control.,Concurrency assignment due.
+13,2-Apr,Data Warehousing & OLAP,Learn data warehousing concepts and OLAP tools.,OLAP assignment due.
+14,9-Apr,Practicum II (Team Project),Work on Practicum II; refine project and prepare presentation.,Submit Practicum II and complete demo.
+15,16-Apr,Database Architectures,"Review all topics for the final exam, focus on architectures.",Prepare for the final exam.
